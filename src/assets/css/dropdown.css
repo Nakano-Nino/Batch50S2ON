@@ -1,0 +1,15 @@
+.dropdown{
+    display: flex; 
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.dropdown-menu{
+    height: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+}
+
+.dropdown-menu a:hover{
+    background-color: #ddd;
+}
